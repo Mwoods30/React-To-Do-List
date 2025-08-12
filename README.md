@@ -1,3 +1,6 @@
+
+<img width="634" height="269" alt="Screenshot 2025-08-11 at 11 28 46 PM" src="https://github.com/user-attachments/assets/cf0a5745-957a-4f82-a14f-81a75d76033b" />
+
 # React + Vite
 
 # Simple To-Do-List web app
@@ -5,8 +8,4 @@
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-
-# React-To-Do-List
